@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:spruce_frame_1"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_2"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_3"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_4"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_5"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_6"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_7"
+    },
+    {
+      "item": "buildersdelight:spruce_frame_8"
+    }
+  ]
+}

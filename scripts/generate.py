@@ -68,26 +68,7 @@ def download_file_content(download_url: str) -> Dict[str, Any] | None:
 
 
 def extract_base_name(filename: str) -> str:
-    """
-    Extract the base name for the output file.
-    For example: 'acacia_frame.json' -> 'acacia_planks'
-    
-    This function attempts to convert frame names to plank names.
-    """
-    base_name = filename.replace('.json', '')
-    
-    # Convert common frame patterns to plank patterns
-    if '_frame' in base_name:
-        base_name = base_name.replace('_frame', '_planks')
-    elif base_name.endswith('_log'):
-        # Keep log files as is, or convert if needed
-        pass
-    else:
-        # For other cases, try to infer the base material
-        # and add _planks suffix if it seems appropriate
-        if not base_name.endswith('_planks'):
-            base_name += '_planks'
-    
+    base_name = filename.replace('.json', '')    
     return base_name
 
 

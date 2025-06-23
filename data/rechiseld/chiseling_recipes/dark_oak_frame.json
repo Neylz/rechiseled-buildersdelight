@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:dark_oak_frame_1"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_2"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_3"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_4"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_5"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_6"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_7"
+    },
+    {
+      "item": "buildersdelight:dark_oak_frame_8"
+    }
+  ]
+}

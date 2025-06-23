@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:warped_frame_1"
+    },
+    {
+      "item": "buildersdelight:warped_frame_2"
+    },
+    {
+      "item": "buildersdelight:warped_frame_3"
+    },
+    {
+      "item": "buildersdelight:warped_frame_4"
+    },
+    {
+      "item": "buildersdelight:warped_frame_5"
+    },
+    {
+      "item": "buildersdelight:warped_frame_6"
+    },
+    {
+      "item": "buildersdelight:warped_frame_7"
+    },
+    {
+      "item": "buildersdelight:warped_frame_8"
+    }
+  ]
+}

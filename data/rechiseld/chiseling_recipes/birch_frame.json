@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:birch_frame_1"
+    },
+    {
+      "item": "buildersdelight:birch_frame_2"
+    },
+    {
+      "item": "buildersdelight:birch_frame_3"
+    },
+    {
+      "item": "buildersdelight:birch_frame_4"
+    },
+    {
+      "item": "buildersdelight:birch_frame_5"
+    },
+    {
+      "item": "buildersdelight:birch_frame_6"
+    },
+    {
+      "item": "buildersdelight:birch_frame_7"
+    },
+    {
+      "item": "buildersdelight:birch_frame_8"
+    }
+  ]
+}
