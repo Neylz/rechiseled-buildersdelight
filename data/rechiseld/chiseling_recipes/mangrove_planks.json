@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_1"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_2"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_3"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_4"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_5"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_6"
+    },
+    {
+      "item": "buildersdelight:mangrove_planks_7"
+    }
+  ]
+}

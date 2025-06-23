@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:diorite_stairs"
+    },
+    {
+      "item": "minecraft:polished_diorite_stairs"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_1"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_2"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_3"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_4"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_5"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_6"
+    },
+    {
+      "item": "buildersdelight:diorite_stairs_7"
+    }
+  ]
+}

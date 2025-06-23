@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:birch_stairs"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_1"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_2"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_3"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_4"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_5"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_6"
+    },
+    {
+      "item": "buildersdelight:birch_stairs_7"
+    }
+  ]
+}

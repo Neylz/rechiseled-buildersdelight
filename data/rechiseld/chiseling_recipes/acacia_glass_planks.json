@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:acacia_glass_1"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_2"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_3"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_4"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_5"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_6"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_7"
+    },
+    {
+      "item": "buildersdelight:acacia_glass_8"
+    }
+  ]
+}

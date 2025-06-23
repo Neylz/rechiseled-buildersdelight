@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:dripstone_stairs_1"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_2"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_3"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_4"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_5"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_6"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_7"
+    },
+    {
+      "item": "buildersdelight:dripstone_stairs_8"
+    }
+  ]
+}

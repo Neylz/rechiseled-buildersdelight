@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:birch_planks"
+    },
+    {
+      "item": "buildersdelight:birch_planks_1"
+    },
+    {
+      "item": "buildersdelight:birch_planks_2"
+    },
+    {
+      "item": "buildersdelight:birch_planks_3"
+    },
+    {
+      "item": "buildersdelight:birch_planks_4"
+    },
+    {
+      "item": "buildersdelight:birch_planks_5"
+    },
+    {
+      "item": "buildersdelight:birch_planks_6"
+    },
+    {
+      "item": "buildersdelight:birch_planks_7"
+    }
+  ]
+}

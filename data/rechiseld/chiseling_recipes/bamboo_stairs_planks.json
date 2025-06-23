@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:bamboo_stairs"
+    },
+    {
+      "item": "minecraft:bamboo_mosaic_stairs"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_1"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_2"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_3"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_4"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_5"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_6"
+    },
+    {
+      "item": "buildersdelight:bamboo_stairs_7"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:stone_brick_stairs"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_1"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_2"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_3"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_4"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_5"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_6"
+    },
+    {
+      "item": "buildersdelight:stone_brick_stairs_7"
+    }
+  ]
+}

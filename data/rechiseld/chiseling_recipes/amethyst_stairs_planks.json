@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:amethyst_stairs_1"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_2"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_3"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_4"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_5"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_6"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_7"
+    },
+    {
+      "item": "buildersdelight:amethyst_stairs_8"
+    }
+  ]
+}

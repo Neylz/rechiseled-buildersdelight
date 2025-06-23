@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:birch_slab"
+    },
+    {
+      "item": "buildersdelight:birch_slab_1"
+    },
+    {
+      "item": "buildersdelight:birch_slab_2"
+    },
+    {
+      "item": "buildersdelight:birch_slab_3"
+    },
+    {
+      "item": "buildersdelight:birch_slab_4"
+    },
+    {
+      "item": "buildersdelight:birch_slab_5"
+    },
+    {
+      "item": "buildersdelight:birch_slab_6"
+    },
+    {
+      "item": "buildersdelight:birch_slab_7"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "buildersdelight:glass_1"
+    },
+    {
+      "item": "buildersdelight:glass_2"
+    },
+    {
+      "item": "buildersdelight:glass_3"
+    },
+    {
+      "item": "buildersdelight:glass_4"
+    },
+    {
+      "item": "buildersdelight:glass_5"
+    },
+    {
+      "item": "buildersdelight:glass_6"
+    },
+    {
+      "item": "buildersdelight:glass_7"
+    }
+  ]
+}

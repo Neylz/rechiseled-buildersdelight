@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:polished_andesite"
+    },
+    {
+      "item": "buildersdelight:andesite_1"
+    },
+    {
+      "item": "buildersdelight:andesite_2"
+    },
+    {
+      "item": "buildersdelight:andesite_3"
+    },
+    {
+      "item": "buildersdelight:andesite_4"
+    },
+    {
+      "item": "buildersdelight:andesite_5"
+    },
+    {
+      "item": "buildersdelight:andesite_6"
+    },
+    {
+      "item": "buildersdelight:andesite_7"
+    }
+  ]
+}

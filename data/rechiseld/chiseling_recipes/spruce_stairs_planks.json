@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:spruce_stairs"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_1"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_2"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_3"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_4"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_5"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_6"
+    },
+    {
+      "item": "buildersdelight:spruce_stairs_7"
+    }
+  ]
+}

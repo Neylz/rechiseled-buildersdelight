@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:industrial_flat_1"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_2"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_3"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_4"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_5"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_6"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_7"
+    },
+    {
+      "item": "buildersdelight:industrial_flat_8"
+    }
+  ]
+}

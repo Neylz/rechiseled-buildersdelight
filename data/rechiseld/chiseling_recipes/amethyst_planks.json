@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_1"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_2"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_3"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_4"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_5"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_6"
+    },
+    {
+      "item": "buildersdelight:amethyst_block_7"
+    }
+  ]
+}

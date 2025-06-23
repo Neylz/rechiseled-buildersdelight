@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:warped_glass_1"
+    },
+    {
+      "item": "buildersdelight:warped_glass_2"
+    },
+    {
+      "item": "buildersdelight:warped_glass_3"
+    },
+    {
+      "item": "buildersdelight:warped_glass_4"
+    },
+    {
+      "item": "buildersdelight:warped_glass_5"
+    },
+    {
+      "item": "buildersdelight:warped_glass_6"
+    },
+    {
+      "item": "buildersdelight:warped_glass_7"
+    },
+    {
+      "item": "buildersdelight:warped_glass_8"
+    }
+  ]
+}

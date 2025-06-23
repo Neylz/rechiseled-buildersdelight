@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:mangrove_slab"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_1"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_2"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_3"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_4"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_5"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_6"
+    },
+    {
+      "item": "buildersdelight:mangrove_slab_7"
+    }
+  ]
+}

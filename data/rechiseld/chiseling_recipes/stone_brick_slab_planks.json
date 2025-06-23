@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:stone_brick_slab"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_1"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_2"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_3"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_4"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_5"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_6"
+    },
+    {
+      "item": "buildersdelight:stone_brick_slab_7"
+    }
+  ]
+}

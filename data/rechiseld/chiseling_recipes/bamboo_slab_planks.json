@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:bamboo_slab"
+    },
+    {
+      "item": "minecraft:bamboo_mosaic_slab"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_1"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_2"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_3"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_4"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_5"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_6"
+    },
+    {
+      "item": "buildersdelight:bamboo_slab_7"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_mosaic"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_1"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_2"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_3"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_4"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_5"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_6"
+    },
+    {
+      "item": "buildersdelight:bamboo_planks_7"
+    }
+  ]
+}

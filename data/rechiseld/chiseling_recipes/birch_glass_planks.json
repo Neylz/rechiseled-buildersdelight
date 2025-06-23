@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:birch_glass_1"
+    },
+    {
+      "item": "buildersdelight:birch_glass_2"
+    },
+    {
+      "item": "buildersdelight:birch_glass_3"
+    },
+    {
+      "item": "buildersdelight:birch_glass_4"
+    },
+    {
+      "item": "buildersdelight:birch_glass_5"
+    },
+    {
+      "item": "buildersdelight:birch_glass_6"
+    },
+    {
+      "item": "buildersdelight:birch_glass_7"
+    },
+    {
+      "item": "buildersdelight:birch_glass_8"
+    }
+  ]
+}

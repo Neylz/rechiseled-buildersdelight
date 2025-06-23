@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:sandstone_stairs"
+    },
+    {
+      "item": "minecraft:smooth_sandstone_stairs"
+    },
+    {
+      "item": "buildersdelight:sandstone_stairs_1"
+    },
+    {
+      "item": "buildersdelight:sandstone_stairs_2"
+    },
+    {
+      "item": "buildersdelight:sandstone_stairs_3"
+    },
+    {
+      "item": "buildersdelight:sandstone_stairs_4"
+    },
+    {
+      "item": "buildersdelight:sandstone_stairs_5"
+    },
+    {
+      "item": "buildersdelight:sandstone_stairs_6"
+    }
+  ]
+}

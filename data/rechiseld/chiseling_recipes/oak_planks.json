@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "buildersdelight:oak_planks_1"
+    },
+    {
+      "item": "buildersdelight:oak_planks_2"
+    },
+    {
+      "item": "buildersdelight:oak_planks_3"
+    },
+    {
+      "item": "buildersdelight:oak_planks_4"
+    },
+    {
+      "item": "buildersdelight:oak_planks_5"
+    },
+    {
+      "item": "buildersdelight:oak_planks_6"
+    },
+    {
+      "item": "buildersdelight:oak_planks_7"
+    }
+  ]
+}

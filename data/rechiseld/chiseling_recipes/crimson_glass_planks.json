@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:crimson_glass_1"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_2"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_3"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_4"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_5"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_6"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_7"
+    },
+    {
+      "item": "buildersdelight:crimson_glass_8"
+    }
+  ]
+}

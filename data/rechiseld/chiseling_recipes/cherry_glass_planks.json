@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:cherry_glass_1"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_2"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_3"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_4"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_5"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_6"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_7"
+    },
+    {
+      "item": "buildersdelight:cherry_glass_8"
+    }
+  ]
+}

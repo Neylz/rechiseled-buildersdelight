@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:cherry_stairs"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_1"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_2"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_3"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_4"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_5"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_6"
+    },
+    {
+      "item": "buildersdelight:cherry_stairs_7"
+    }
+  ]
+}

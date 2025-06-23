@@ -1,0 +1,24 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:chain"
+    },
+    {
+      "item": "buildersdelight:chain_1"
+    },
+    {
+      "item": "buildersdelight:chain_2"
+    },
+    {
+      "item": "buildersdelight:chain_3"
+    },
+    {
+      "item": "buildersdelight:chain_4"
+    },
+    {
+      "item": "buildersdelight:chain_5"
+    }
+  ]
+}

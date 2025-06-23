@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:granite_stairs"
+    },
+    {
+      "item": "minecraft:polished_granite_stairs"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_1"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_2"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_3"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_4"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_5"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_6"
+    },
+    {
+      "item": "buildersdelight:granite_stairs_7"
+    }
+  ]
+}

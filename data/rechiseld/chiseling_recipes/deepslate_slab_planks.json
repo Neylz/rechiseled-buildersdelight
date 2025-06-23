@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:polished_deepslate_slab"
+    },
+    {
+      "item": "minecraft:deepslate_brick_slab"
+    },
+    {
+      "item": "minecraft:deepslate_tile_slab"
+    },
+    {
+      "item": "buildersdelight:deepslate_slab_1"
+    },
+    {
+      "item": "buildersdelight:deepslate_slab_2"
+    },
+    {
+      "item": "buildersdelight:deepslate_slab_3"
+    },
+    {
+      "item": "buildersdelight:deepslate_slab_4"
+    },
+    {
+      "item": "buildersdelight:deepslate_slab_5"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:lantern"
+    },
+    {
+      "item": "buildersdelight:lantern_1"
+    },
+    {
+      "item": "buildersdelight:lantern_2"
+    },
+    {
+      "item": "buildersdelight:lantern_3"
+    },
+    {
+      "item": "buildersdelight:lantern_4"
+    },
+    {
+      "item": "buildersdelight:lantern_5"
+    },
+    {
+      "item": "buildersdelight:lantern_6"
+    },
+    {
+      "item": "buildersdelight:lantern_7"
+    },
+    {
+      "item": "buildersdelight:lantern_8"
+    }
+  ]
+}

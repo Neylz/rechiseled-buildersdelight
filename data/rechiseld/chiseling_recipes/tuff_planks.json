@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "buildersdelight:tuff_1"
+    },
+    {
+      "item": "buildersdelight:tuff_2"
+    },
+    {
+      "item": "buildersdelight:tuff_3"
+    },
+    {
+      "item": "buildersdelight:tuff_4"
+    },
+    {
+      "item": "buildersdelight:tuff_5"
+    },
+    {
+      "item": "buildersdelight:tuff_6"
+    },
+    {
+      "item": "buildersdelight:tuff_7"
+    }
+  ]
+}

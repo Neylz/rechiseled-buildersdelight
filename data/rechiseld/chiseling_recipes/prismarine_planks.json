@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "buildersdelight:prismarine_1"
+    },
+    {
+      "item": "buildersdelight:prismarine_2"
+    },
+    {
+      "item": "buildersdelight:prismarine_3"
+    },
+    {
+      "item": "buildersdelight:prismarine_4"
+    },
+    {
+      "item": "buildersdelight:prismarine_5"
+    },
+    {
+      "item": "buildersdelight:prismarine_6"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:jungle_slab"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_1"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_2"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_3"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_4"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_5"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_6"
+    },
+    {
+      "item": "buildersdelight:jungle_slab_7"
+    }
+  ]
+}

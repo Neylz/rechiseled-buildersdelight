@@ -1,0 +1,33 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:diorite"
+    },
+    {
+      "item": "minecraft:polished_diorite"
+    },
+    {
+      "item": "buildersdelight:diorite_1"
+    },
+    {
+      "item": "buildersdelight:diorite_2"
+    },
+    {
+      "item": "buildersdelight:diorite_3"
+    },
+    {
+      "item": "buildersdelight:diorite_4"
+    },
+    {
+      "item": "buildersdelight:diorite_5"
+    },
+    {
+      "item": "buildersdelight:diorite_6"
+    },
+    {
+      "item": "buildersdelight:diorite_7"
+    }
+  ]
+}

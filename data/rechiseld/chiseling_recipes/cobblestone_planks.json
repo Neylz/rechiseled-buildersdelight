@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "buildersdelight:cobblestone_1"
+    },
+    {
+      "item": "buildersdelight:cobblestone_2"
+    },
+    {
+      "item": "buildersdelight:cobblestone_3"
+    },
+    {
+      "item": "buildersdelight:cobblestone_4"
+    },
+    {
+      "item": "buildersdelight:cobblestone_5"
+    },
+    {
+      "item": "buildersdelight:cobblestone_6"
+    },
+    {
+      "item": "buildersdelight:cobblestone_7"
+    }
+  ]
+}

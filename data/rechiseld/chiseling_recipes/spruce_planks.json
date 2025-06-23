@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:spruce_planks"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_1"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_2"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_3"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_4"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_5"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_6"
+    },
+    {
+      "item": "buildersdelight:spruce_planks_7"
+    }
+  ]
+}

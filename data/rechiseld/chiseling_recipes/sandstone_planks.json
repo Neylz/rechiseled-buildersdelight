@@ -1,0 +1,36 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    {
+      "item": "minecraft:cut_sandstone"
+    },
+    {
+      "item": "minecraft:smooth_sandstone"
+    },
+    {
+      "item": "buildersdelight:sandstone_1"
+    },
+    {
+      "item": "buildersdelight:sandstone_2"
+    },
+    {
+      "item": "buildersdelight:sandstone_3"
+    },
+    {
+      "item": "buildersdelight:sandstone_4"
+    },
+    {
+      "item": "buildersdelight:sandstone_5"
+    },
+    {
+      "item": "buildersdelight:sandstone_6"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:warning_stripes_1"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_2"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_3"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_4"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_5"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_6"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_7"
+    },
+    {
+      "item": "buildersdelight:warning_stripes_8"
+    },
+    {
+      "item": "buildersdelight:industrial_1"
+    },
+    {
+      "item": "buildersdelight:industrial_2"
+    },
+    {
+      "item": "buildersdelight:industrial_3"
+    },
+    {
+      "item": "buildersdelight:industrial_4"
+    },
+    {
+      "item": "buildersdelight:industrial_5"
+    },
+    {
+      "item": "buildersdelight:industrial_6"
+    },
+    {
+      "item": "buildersdelight:industrial_7"
+    },
+    {
+      "item": "buildersdelight:industrial_8"
+    }
+  ]
+}

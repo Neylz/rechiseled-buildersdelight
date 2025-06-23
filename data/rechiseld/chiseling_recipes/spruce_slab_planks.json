@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:spruce_slab"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_1"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_2"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_3"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_4"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_5"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_6"
+    },
+    {
+      "item": "buildersdelight:spruce_slab_7"
+    }
+  ]
+}

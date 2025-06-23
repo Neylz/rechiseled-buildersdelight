@@ -1,0 +1,39 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "minecraft:polished_blackstone"
+    },
+    {
+      "item": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "item": "minecraft:cracked_polished_blackstone_bricks"
+    },
+    {
+      "item": "buildersdelight:blackstone_1"
+    },
+    {
+      "item": "buildersdelight:blackstone_2"
+    },
+    {
+      "item": "buildersdelight:blackstone_3"
+    },
+    {
+      "item": "buildersdelight:blackstone_4"
+    },
+    {
+      "item": "buildersdelight:blackstone_5"
+    },
+    {
+      "item": "buildersdelight:blackstone_6"
+    }
+  ]
+}

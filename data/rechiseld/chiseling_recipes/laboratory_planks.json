@@ -1,0 +1,18 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:laboratory_1"
+    },
+    {
+      "item": "buildersdelight:laboratory_2"
+    },
+    {
+      "item": "buildersdelight:laboratory_3"
+    },
+    {
+      "item": "buildersdelight:laboratory_4"
+    }
+  ]
+}

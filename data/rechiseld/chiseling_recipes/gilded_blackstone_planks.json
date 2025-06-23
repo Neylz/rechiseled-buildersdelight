@@ -1,0 +1,18 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "buildersdelight:gilded_blackstone_1"
+    },
+    {
+      "item": "buildersdelight:gilded_blackstone_2"
+    },
+    {
+      "item": "buildersdelight:gilded_blackstone_3"
+    },
+    {
+      "item": "buildersdelight:gilded_blackstone_4"
+    }
+  ]
+}

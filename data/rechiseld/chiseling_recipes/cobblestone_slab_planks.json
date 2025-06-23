@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:cobblestone_slab"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_1"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_2"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_3"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_4"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_5"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_6"
+    },
+    {
+      "item": "buildersdelight:cobblestone_slab_7"
+    }
+  ]
+}

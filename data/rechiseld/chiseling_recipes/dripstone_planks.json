@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:dripstone_block"
+    },
+    {
+      "item": "buildersdelight:dripstone_1"
+    },
+    {
+      "item": "buildersdelight:dripstone_2"
+    },
+    {
+      "item": "buildersdelight:dripstone_3"
+    },
+    {
+      "item": "buildersdelight:dripstone_4"
+    },
+    {
+      "item": "buildersdelight:dripstone_5"
+    },
+    {
+      "item": "buildersdelight:dripstone_6"
+    },
+    {
+      "item": "buildersdelight:dripstone_7"
+    }
+  ]
+}

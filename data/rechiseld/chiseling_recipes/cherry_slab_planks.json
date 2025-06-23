@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:cherry_slab"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_1"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_2"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_3"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_4"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_5"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_6"
+    },
+    {
+      "item": "buildersdelight:cherry_slab_7"
+    }
+  ]
+}

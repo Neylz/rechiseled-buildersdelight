@@ -1,0 +1,6 @@
+scripts/
+
+.gitignore
+.packignore
+
+*.log

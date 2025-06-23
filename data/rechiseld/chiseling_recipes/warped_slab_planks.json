@@ -1,0 +1,30 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "minecraft:warped_slab"
+    },
+    {
+      "item": "buildersdelight:warped_slab_1"
+    },
+    {
+      "item": "buildersdelight:warped_slab_2"
+    },
+    {
+      "item": "buildersdelight:warped_slab_3"
+    },
+    {
+      "item": "buildersdelight:warped_slab_4"
+    },
+    {
+      "item": "buildersdelight:warped_slab_5"
+    },
+    {
+      "item": "buildersdelight:warped_slab_6"
+    },
+    {
+      "item": "buildersdelight:warped_slab_7"
+    }
+  ]
+}
