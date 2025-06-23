@@ -1,6 +1,10 @@
+img/
 scripts/
 
 .gitignore
 .packignore
 
 *.log
+
+README.md
+LICENSE
